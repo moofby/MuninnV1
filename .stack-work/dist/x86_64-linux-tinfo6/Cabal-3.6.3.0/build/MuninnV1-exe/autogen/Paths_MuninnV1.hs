@@ -42,12 +42,12 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
-bindir     = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/bin"
-libdir     = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/lib/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0-CdvppmCOjPV8CFilJPhgoR-MuninnV1-exe"
-dynlibdir  = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/lib/x86_64-linux-ghc-9.2.7"
-datadir    = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/share/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0"
-libexecdir = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/libexec/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0"
-sysconfdir = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/671fd4d5d1a84453b4c8574d7f640e6354edaf1142b9f66c39d70cfd018ea603/9.2.7/etc"
+bindir     = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/bin"
+libdir     = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/lib/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0-CdvppmCOjPV8CFilJPhgoR-MuninnV1-exe"
+dynlibdir  = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/lib/x86_64-linux-ghc-9.2.7"
+datadir    = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/share/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0"
+libexecdir = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/libexec/x86_64-linux-ghc-9.2.7/MuninnV1-0.1.0.0"
+sysconfdir = "/home/moofby/DEV/MuninnV1/.stack-work/install/x86_64-linux-tinfo6/9826410b1a64726ca42d4f0bd4d47be4a53be98bb4d905cb0ec96b687fe95137/9.2.7/etc"
 
 getBinDir     = catchIO (getEnv "MuninnV1_bindir")     (\_ -> return bindir)
 getLibDir     = catchIO (getEnv "MuninnV1_libdir")     (\_ -> return libdir)

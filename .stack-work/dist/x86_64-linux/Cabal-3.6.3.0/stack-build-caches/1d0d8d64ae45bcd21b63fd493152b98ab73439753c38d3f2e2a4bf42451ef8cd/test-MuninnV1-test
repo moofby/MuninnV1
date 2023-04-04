@@ -1,0 +1,20 @@
+/home/moofby/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/moofby/DEV/MuninnV1/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/MuninnV1-test/autogen/Paths_MuninnV1.hs:
+  hash: b4edd0ec55fc05006ea1da3ee5b710437f9c50b3808ae1a21a812b232a9d8c2c
+/home/moofby/DEV/MuninnV1/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/MuninnV1-test/autogen/cabal_macros.h:
+  hash: 0973fdc5e926226a203a3208abae101e5c72d9a3cec6555362389ea93049d842
+/home/moofby/DEV/MuninnV1/CHANGELOG.md:
+  hash: 996abd0bdf7383a9d25e998592168fdc3a184e92a7a33fb627d569c880a3f4c1
+/home/moofby/DEV/MuninnV1/MuninnV1.cabal:
+  hash: f65cbaa91d8f5fa50a43ba712cefab4f56ec881b61e8610677b06799a4f83116
+/home/moofby/DEV/MuninnV1/README.md:
+  hash: 490820dff350cf1a5c669a1412377e701a8cfe5122a8236f3c56d0aa0fbcaa4a
+/home/moofby/DEV/MuninnV1/package.yaml:
+  hash: 0d5eb7f0985182d935ddb5dd39a688913d48d379d09af240a09fe5a8946f542c
+/home/moofby/DEV/MuninnV1/test/DataTest.hs:
+  hash: b676e59f035316198a05365333fd6ff87fc99f2150cd5c6479dbedf5827e3b84
+/home/moofby/DEV/MuninnV1/test/Spec.hs:
+  hash: f1ee56de0b98895833a874e9411cff3ac006ad0c048b4283ac824d91bdcf6f5c
+/usr/include/stdc-predef.h:
+  hash: d6bcc58441a423bbb3a52171fcd3b84d8b36e332a55221a1c3e6e899bc43ccb3
